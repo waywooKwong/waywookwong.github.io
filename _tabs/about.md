@@ -11,6 +11,11 @@ NOW: Looking for further research opportunities at the Master/PhD's level.
 
 ⭐️2025/03/29: My paper *[A multimodel Intelligent Change Assessment Framework for Microservice Systems Based on Large Language Models](https://nkcs.iops.ai/wp-content/uploads/2025/03/ChangeLLM.pdf)* accepted by FSE2025 Industry (CCF-A), as Second student author, guided by [Yongqian Sun](https://nkcs.iops.ai/yongqiansun/) and [Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/) from [AIOps lab](https://nkcs.iops.ai/), College of Software, Nankai University.
 
+## Recent work
+
+- Agent protocols: MCP, A2A
+- Agent strcuture: CrewAI, LangGraph
+
 ## Research intersest
 
 - LLM, especially Multi-Agents System
